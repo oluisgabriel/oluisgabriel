@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luis Gabriel 
 
 - 🔭 Hoje sou estudante de Análise e Desenvolvimento de Sistemas, com objetivo de ser Dev back-end
-- 🌱  Python, C e MySQL
+- 🌱  HTML, CSS, JavaScript,Python e MySQL
 - 🤔 Pronouns: ele/dele
 
 ![oluisgabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=oluisgabriel&show_icons=true&theme=radical)
